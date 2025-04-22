@@ -73,14 +73,3 @@ CryptoQR uses native browser cryptography (WebCrypto API) to implement AES-256-G
 ## License
 This project is open source under the [MIT License](LICENSE).
 
-## Contributing
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add some amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
-# qrypto.codes
-# qrypto.codes
-# qrypto-codes
